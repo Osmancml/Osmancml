@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Cemil ERTURK</h1>
-<h3 align="center">A student from Bogazici University, a developer who wants to improve herself :D</h3>
+<h3 align="center">A student at Bogazici University, a developer who wants to improve herself :D</h3>
 <img align=“right” width=“400” src=“https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmancml&label=Profile%20views&color=0e75b6&style=flat" alt="osmancml" /> </p>
